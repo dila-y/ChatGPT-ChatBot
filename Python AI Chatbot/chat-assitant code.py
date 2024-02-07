@@ -1,6 +1,6 @@
 import openai
 
-#input your ChatGPT API key here
+#input your ChatGPT API key here so it will work 
 openai.api_key = "####"
 
 messages = []
